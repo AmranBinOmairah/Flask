@@ -1,1 +1,1 @@
-web: gunicorn ImagewithFlask:app
+web: gunicorn ImageswithFlask:app
